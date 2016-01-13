@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[seizethedaycoffee]]></title>
+        <description><![CDATA[seizethedaycoffee]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 15:12:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Street Photo Thailand - All About Street Photography in Thailand]]></title>
+            <description><![CDATA[<article><h1>Street Photo Thailand - All About Street Photography in Thailand</h1><p>We're calling for submissions for new members of Street Photo Thailand. Please read carefully submission rules below and send your portfolio to us from now until March 31st, 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5dd7b91077ea3f55727efb1c6ccac5e32fab9e1.jpg"></article>]]></description>
+            <link>http://streetphotothailand.com/</link>
+            <guid isPermaLink="false">146e4c80-9a58-4cb8-982b-f4d745326003</guid>
+            <pubDate>Wed, 13 Jan 2016 15:12:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
