@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[seizethedaycoffee]]></title>
         <description><![CDATA[seizethedaycoffee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seizethedaycoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 15:19:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 15:24:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seizethedaycoffee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbdf9bea-3dd1-4eb0-bb2f-6ee055e44e68.jpg">]]></description>
-            <link>undefineda70034d2-274e-4b82-8a37-6cd94d54f0bf/index.html</link>
+            <title><![CDATA[กาแฟที่อร่อยตามมาตรฐานนั้นเป็นอย่างไร ?]]></title>
+            <description><![CDATA[<article><h1>กาแฟที่อร่อยตามมาตรฐานนั้นเป็นอย่างไร ?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0243b36cc8486ecac2771628cdea3d81d54f63ec.jpg"></article>]]></description>
+            <link>https://thegrid.ai/seizethedaycoffee/a70034d2-274e-4b82-8a37-6cd94d54f0bf/index.html</link>
             <guid isPermaLink="false">a70034d2-274e-4b82-8a37-6cd94d54f0bf</guid>
-            <pubDate>Wed, 13 Jan 2016 15:19:30 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 15:24:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
